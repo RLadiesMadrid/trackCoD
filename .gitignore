@@ -64,4 +64,5 @@ vignettes/*.pdf
 *.knit.md
 
 
-# End of https://www.gitignore.io/api/r,macos
+# End of https://www.gitignore.io/api/r,macosc
+.Rproj.user
